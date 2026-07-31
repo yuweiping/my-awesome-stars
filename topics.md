@@ -1621,6 +1621,7 @@
 
 ## others 
 
+- [zwm1005/walle](https://github.com/zwm1005/walle) - WALL-E DIY 瓦力机器人DIY教程
 - [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group.
 - [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
