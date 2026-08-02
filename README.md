@@ -64,6 +64,7 @@
 
 ## C++ 
 
+- [pschatzmann/ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP) - A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF
 - [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [equationl/paddleocr4android](https://github.com/equationl/paddleocr4android) - A Paddle OCR sample for Android by Paddle-Lite from https://github.com/PaddlePaddle/PaddleOCR  对 PaddleOCR 的简单封装，使其能够快速上手使用而不需繁琐的配置。
