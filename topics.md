@@ -1686,7 +1686,7 @@
 - [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [SekiBetu/JustTrustMe](https://github.com/SekiBetu/JustTrustMe) - An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning
 - [Xposed-Modules-Repo/me.jsonet.jshook](https://github.com/Xposed-Modules-Repo/me.jsonet.jshook) - 用js实现hook 支持java层和native层
-- [littleWhiteDuck/SimpleHook](https://github.com/littleWhiteDuck/SimpleHook) - SimpleHook hook部分代码
+- [littleWhiteDuck/SimpleHook](https://github.com/littleWhiteDuck/SimpleHook) - SimpleHook
 - [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [panyanyany/Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) - ChatTTS资源大全，免费体验地址，音色库等
