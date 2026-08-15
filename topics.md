@@ -69,6 +69,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [emoji](#emoji)
@@ -774,6 +775,10 @@
 ## dotnet 
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+
+## dsh-plugin 
+
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 
 ## education 
 
@@ -1890,6 +1895,7 @@
 
 ## python 
 
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
