@@ -450,6 +450,7 @@
 
 ## Python 
 
+- [IgnazioDS/langgraph-fastapi-starter](https://github.com/IgnazioDS/langgraph-fastapi-starter) - Production-ready LangGraph + FastAPI starter for building AI agent backends with Postgres, pgvector, API-key auth, Alembic migrations, and structured logging.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
