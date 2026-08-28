@@ -147,7 +147,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## HTML 
 
@@ -733,7 +733,7 @@
 ## Vue 
 
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [mubaidr/vite-vue3-browser-extension-v3](https://github.com/mubaidr/vite-vue3-browser-extension-v3) - Another vite powered web extension (chrome, firefox, etc.) starter template.
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
