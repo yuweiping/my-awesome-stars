@@ -217,7 +217,7 @@
 - [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 - [xiaonuobase/Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
 - [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [dromara/RedisFront](https://github.com/dromara/RedisFront) - RedisFront is a cross-platform Redis client tool developed with Java Swing, compatible with major operating systems (Windows, macOS,Linux). Its visualized interface enables Redis data management and s
@@ -571,7 +571,7 @@
 - [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 ## Svelte 
 
