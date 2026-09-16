@@ -350,7 +350,7 @@
 ## analytics 
 
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 
 ## android 
 
@@ -464,7 +464,7 @@
 ## bash 
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 ## bitcoin 
 
@@ -575,7 +575,6 @@
 
 ## cli 
 
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -1046,14 +1045,12 @@
 
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [mubaidr/vite-vue3-browser-extension-v3](https://github.com/mubaidr/vite-vue3-browser-extension-v3) - Another vite powered web extension (chrome, firefox, etc.) starter template.
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
 - [Combodo/iTop](https://github.com/Combodo/iTop) - A simple, web based CMDB & IT Service Management tool
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -1408,7 +1405,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失
 
@@ -1587,7 +1584,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 ## nodejs 
 
@@ -1612,7 +1609,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
@@ -1899,7 +1896,7 @@
 ## postgresql 
 
 - [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## privacy 
@@ -2169,7 +2166,7 @@
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## shell 
@@ -2177,7 +2174,7 @@
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 ## software 
 
@@ -2271,7 +2268,7 @@
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [Equal-UI/Equal](https://github.com/Equal-UI/Equal) - Equal UI is a Vue 3 UI library empowered by Tailwindcss
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
@@ -2594,7 +2591,7 @@
 ## zsh 
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 
 
 ## License
