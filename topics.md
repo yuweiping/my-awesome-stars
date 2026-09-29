@@ -1373,7 +1373,7 @@
 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
@@ -1465,7 +1465,7 @@
 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -2154,7 +2154,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
 - [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -2585,7 +2585,7 @@
 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 - [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop) - Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
