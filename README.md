@@ -493,7 +493,7 @@
 - [fudan-generative-vision/hallo](https://github.com/fudan-generative-vision/hallo) - Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [Altria1979/System_Architect](https://github.com/Altria1979/System_Architect) - 🐍 2024年软考 (杭州e类+租房补贴)系统架构设计师资料整理复习(软考高级) 二战 20天备考通过🎉🎉🎉2024年5月份的上半年系统架构师(压线过 52/46/45)   语雀文章总结体验 https://www.yuque.com/hakusai/el7lwd
+- [Altria1979/System_Architect](https://github.com/Altria1979/System_Architect) - 软考高级「系统架构设计师」备考资料与经验分享，涵盖历年真题、案例分析、论文与复习讲义。2024 年上半年二战，20 天备考通过（52/46/45）；可交流杭州 E 类人才认定与租房补贴申请经验。
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
