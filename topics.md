@@ -1778,7 +1778,7 @@
 - [tentechtop/tentech-official](https://github.com/tentechtop/tentech-official) - Vue3+TypeScript+ChatGPT客服的响应式企业官网模板
 - [CallBoson/official-nuxt3](https://github.com/CallBoson/official-nuxt3) - 基于Nuxt3的现代化企业官网模板
 - [027xiguapi/code-box](https://github.com/027xiguapi/code-box) - 本插件可以用于CSDN/知乎/脚本之家/博客园/掘金等网站,一键下载文章html或markdown文件;实现无需登录一键复制代码;支持选中代码;或者代码右上角按钮的一键复制;解除关注博主即可阅读全文提示;去除登录弹窗;去除跳转APP弹窗.
-- [Altria1979/System_Architect](https://github.com/Altria1979/System_Architect) - 🐍 2024年软考 (杭州e类+租房补贴)系统架构设计师资料整理复习(软考高级) 二战 20天备考通过🎉🎉🎉2024年5月份的上半年系统架构师(压线过 52/46/45)   语雀文章总结体验 https://www.yuque.com/hakusai/el7lwd
+- [Altria1979/System_Architect](https://github.com/Altria1979/System_Architect) - 软考高级「系统架构设计师」备考资料与经验分享，涵盖历年真题、案例分析、论文与复习讲义。2024 年上半年二战，20 天备考通过（52/46/45）；可交流杭州 E 类人才认定与租房补贴申请经验。
 - [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [SekiBetu/JustTrustMe](https://github.com/SekiBetu/JustTrustMe) - An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning
 - [Xposed-Modules-Repo/me.jsonet.jshook](https://github.com/Xposed-Modules-Repo/me.jsonet.jshook) - 用js实现hook 支持java层和native层
