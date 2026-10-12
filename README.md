@@ -180,6 +180,7 @@
 
 ## Java 
 
+- [yuweiping/CordysCRM](https://github.com/yuweiping/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
 - [devlive-community/grantforge](https://github.com/devlive-community/grantforge) - GrantForge (formerly AuthX) is an open-source (MIT) unified permission platform. It answers two questions in one place: who can do what (functional authorization) and who can see which data (data and 
 - [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。
 - [linyu-im/linyu-mini-server](https://github.com/linyu-im/linyu-mini-server) - 一个轻量级的在线聊天室系统，支持实时消息交流，适合多场景使用。
@@ -256,7 +257,8 @@
 
 ## JavaScript 
 
-- [xiaour/yolo-data](https://github.com/xiaour/yolo-data) - 先进且稳定的企业级智能问数平台；YOLO Data 将大模型 DataAgent、实时指标体系、业务数据集、权限、会话记忆和工作区产物整合为一条可审计、可复现、可治理的workflow。
+- [yuweiping/cloud-mail](https://github.com/yuweiping/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+- [xiaour/yolo-data](https://github.com/xiaour/yolo-data) - 先进且稳定的企业级智能问数平台；面向企业问数、根因分析的Data Agent，基于数据分析方法论打造可审计、可治理、可复现workflow
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design) - DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
 - [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) - 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
@@ -404,6 +406,8 @@
 
 ## Others 
 
+- [yuweiping/my-skills](https://github.com/yuweiping/my-skills) - 
+- [yuweiping/my-awesome-stars](https://github.com/yuweiping/my-awesome-stars) - 
 - [oscar-wang-xin/xin-skills](https://github.com/oscar-wang-xin/xin-skills) - AI萃取的小说文风写作技能Skill,，基于正文样本萃取的十维写作风格规范。
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [zwm1005/walle](https://github.com/zwm1005/walle) - WALL-E DIY 瓦力机器人DIY教程
@@ -459,11 +463,13 @@
 
 ## PowerShell 
 
+- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, 
 - [orev/dpst-control](https://github.com/orev/dpst-control) - Easily disable/enable Intel Display Power Saving Technology (DPST)
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
 ## Python 
 
+- [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) - 你的专属 AI CRM 销售助理，可集成至 OpenClaw、WorkBuddy 等任何 Agent，覆盖 L2C 整个链路。
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
@@ -564,7 +570,7 @@
 
 ## Rust 
 
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
@@ -607,6 +613,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yuanbw2025/storyforge](https://github.com/yuanbw2025/storyforge) - 故事熔炉 StoryForge — AI 小说创作工作台 / AI novel writing workshop
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
