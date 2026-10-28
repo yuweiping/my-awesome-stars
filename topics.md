@@ -204,6 +204,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
@@ -1598,6 +1599,7 @@
 
 ## mcp 
 
+- [loglux/authmcp-gateway](https://github.com/loglux/authmcp-gateway) - 🔐 Secure authentication proxy for MCP servers with JWT auth, real-time monitoring, and admin   dashboard. Production-ready Docker deployment.
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [bailinghub/bailinghub](https://github.com/bailinghub/bailinghub) - 让 Agent 通过对话直接操作你的商城、SaaS、CRM 或 ERP 后台，同时保留原有权限、审批与审计。Self-hosted hub for agents operating existing business systems safely.
@@ -2345,6 +2347,18 @@
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+
+## skills 
+
+- [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a
+- [oscar-wang-xin/xin-skills](https://github.com/oscar-wang-xin/xin-skills) - AI萃取的小说文风写作技能Skill,，基于正文样本萃取的十维写作风格规范。
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+- [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
+- [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失
 
 ## software 
 
