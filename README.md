@@ -619,6 +619,7 @@
 
 ## TypeScript 
 
+- [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 办公工作台
 - [bailinghub/bailinghub](https://github.com/bailinghub/bailinghub) - 让 Agent 通过对话直接操作你的商城、SaaS、CRM 或 ERP 后台，同时保留原有权限、审批与审计。Self-hosted hub for agents operating existing business systems safely.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yuanbw2025/storyforge](https://github.com/yuanbw2025/storyforge) - 故事熔炉 StoryForge — AI 小说创作工作台 / AI novel writing workshop
