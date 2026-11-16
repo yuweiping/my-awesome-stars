@@ -368,7 +368,7 @@
 - [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 办公工作台
 - [bailinghub/bailinghub](https://github.com/bailinghub/bailinghub) - 让 Agent 通过对话直接操作你的商城、SaaS、CRM 或 ERP 后台，同时保留原有权限、审批与审计。Self-hosted hub for agents operating existing business systems safely.
 - [xiaour/yolo-data](https://github.com/xiaour/yolo-data) - 先进且稳定的企业级智能分析平台；面向企业问数、洞察分析的Data Agent，基于数据分析方法论打造可审计、可治理、可复现workflow
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi) - 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
@@ -881,7 +881,7 @@
 
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [IgnazioDS/langgraph-fastapi-starter](https://github.com/IgnazioDS/langgraph-fastapi-starter) - Open-source LangGraph + FastAPI starter for stateful AI agent APIs with PostgreSQL/pgvector, RAG, API-key auth, Docker, migrations, and tests.
 - [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) - Visual node-edge graph GUI editor for LangGraph and run with local LLM or online API
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
@@ -1613,7 +1613,7 @@
 
 ## markdown 
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [1943time/inkdown](https://github.com/1943time/inkdown) - Inkdown is a WYSIWYG editor and an LLM dialogue tool, fully compatible with GitHub Flavored Markdown Spec.
@@ -1654,7 +1654,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
@@ -1824,7 +1824,7 @@
 
 ## obsidian 
 
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## open-source 
@@ -2379,7 +2379,7 @@
 - [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
 - [bailinghub/bailinghub](https://github.com/bailinghub/bailinghub) - 让 Agent 通过对话直接操作你的商城、SaaS、CRM 或 ERP 后台，同时保留原有权限、审批与审计。Self-hosted hub for agents operating existing business systems safely.
 - [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) - Visual node-edge graph GUI editor for LangGraph and run with local LLM or online API
 - [openilink/openilink-hub](https://github.com/openilink/openilink-hub) - 开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs
@@ -2489,7 +2489,7 @@
 ## sqlite 
 
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
-- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
+- [tianma-if/edgeever](https://github.com/tianma-if/edgeever) - AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 - [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
